@@ -70,4 +70,5 @@ Feel free to contribute to this project by improving the face recognition accura
 
 ## License
 This project is licensed under the MIT License.
+https://www.linkedin.com/in/akshatbhatnagar908/
 
